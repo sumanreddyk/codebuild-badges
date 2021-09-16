@@ -21,7 +21,7 @@
 
 A collection of btree wrappers with convenient APIs.
 
-[CodeBuild(btree_graph)]: https://codebuild.ap-southeast-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRGVoRjlZODFvYlJkNkFHcHdsSU9jUWZYa0NBYjdNekJnMFQyalloRGovOWpzbkNielYyTURsaS9QZVNIMW1rVzRTQVF5MGtFZHI0Ym5QcWg5SDlWWWp3PSIsIml2UGFyYW1ldGVyU3BlYyI6ImNyQ21ZTEhvamE1MmpQanoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(btree_graph)]: https://codebuild.ap-southeast-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYWdJeWh1RHVvSVViVEZacUZNc1NNUmExeW1aODIxU3IvOSt4UEZyZkxiUFpwdWV1WGxNbU5nQTlBQS9DbGFNaFJYM3N2UjJEL1kxMjE3d0l2blV2cE5BPSIsIml2UGFyYW1ldGVyU3BlYyI6IlpaTklja2x6WHFmY1czd0ciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge(btree_graph)]: https://img.shields.io/crates/v/btree_graph
 [crates.io(btree_graph)]: https://crates.io/crates/btree_graph
 [Docs badge(btree_graph)]: https://img.shields.io/badge/docs.rs-rustdoc-blue
